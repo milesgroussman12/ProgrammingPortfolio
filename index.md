@@ -3,7 +3,6 @@
 ###  Processing Projects 
 
 #### Space Game
-
 Rock Shooting Game made in Proccessing | Winter 2020 
 ![SpaceGame](file:///Users/9598290/Documents/SpaceGame%20image%20.png)
 
