@@ -1,12 +1,12 @@
 # Miles Groussman's Programming Portfolio
-Questions addressing codes during 2020-2021 will be answered [Here](mailto:milegrou9598@granitesd.org)
+Questions addressing codes during 2020-2021 will be answered [HERE](mailto:milegrou9598@granitesd.org)
 
 ###  Processing Projects 
 
 #### Space Game
 Rock Shooting Game made in Proccessing | Winter 2020 
 
-Source File: [Here](https://github.com/milesgroussman12/ProgrammingPortfolio/tree/gh-pages/src/SpaceGame1)
+Source File: [HERE](https://github.com/milesgroussman12/ProgrammingPortfolio/tree/gh-pages/src/SpaceGame1)
 ![SpaceGame](https://github.com/milesgroussman12/ProgrammingPortfolio/blob/gh-pages/images/SpaceGame%20image%20.png?raw=true)
 
 
@@ -16,7 +16,7 @@ Source File: [Here](https://github.com/milesgroussman12/ProgrammingPortfolio/tre
 #### Number Guessing Game 
 Number Guessing Game made in repl.it | Winter 2021
 
-Source File: [Here](https://replit.com/join/sibnmwqq-milesgroussman)
+Source File: [HERE](https://replit.com/join/sibnmwqq-milesgroussman)
 ![NumberGuess](https://github.com/milesgroussman12/ProgrammingPortfolio/blob/gh-pages/images/NumberGuessingGameScreenShot.png)
 
 
@@ -26,6 +26,6 @@ Source File: [Here](https://replit.com/join/sibnmwqq-milesgroussman)
 #### MADLIBS APP 
 Madlibs Application Game made in repl.it | Spring 2021
 
-Source File: [Here](https://replit.com/join/uyrwidor-milesgroussman)
+Source File: [HERE](https://replit.com/join/uyrwidor-milesgroussman)
 ![MADLIBSapp](https://github.com/milesgroussman12/ProgrammingPortfolio/blob/gh-pages/images/MADLIBS(SS).png)
  
