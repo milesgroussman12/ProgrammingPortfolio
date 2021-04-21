@@ -37,4 +37,4 @@ Source File: [HERE](https://replit.com/join/uyrwidor-milesgroussman)
 Shape Calculator made in repl.it | Spring 2021 
 
 Source File: [HERE](https://replit.com/join/gtgprejd-milesgroussman)
-![shapeCALCULATOR]()
+![shapeCALCULATOR](https://github.com/milesgroussman12/ProgrammingPortfolio/blob/gh-pages/images/ShapeCalculator.png)
