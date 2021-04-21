@@ -27,7 +27,7 @@ Source File: [HERE](https://replit.com/join/sibnmwqq-milesgroussman)
 Madlibs Application Game made in repl.it | Spring 2021
 
 Source File: [HERE](https://replit.com/join/uyrwidor-milesgroussman)
-![MADLIBSapp](https://github.com/milesgroussman12/ProgrammingPortfolio/blob/gh-pages/images/MADLIBS(SS).png)
+![MADLIBSapp](https://github.com/milesgroussman12/ProgrammingPortfolio/blob/gh-pages/images/ShapeCalculator.png)
 
  
 
