@@ -1,5 +1,5 @@
 # Miles Groussman's Programming Portfolio
-Questions addressing codes during 2020-2021 will be answered here: [Miles Groussman](mailto:milegrou9598@granitesd.org)
+Questions addressing codes during 2020-2021 will be answered [Here](mailto:milegrou9598@granitesd.org)
 
 ###  Processing Projects 
 
