@@ -5,7 +5,8 @@ Questions addressing codes during 2020-2021 will be answered [HERE](mailto:mileg
 
 #### Hangman App 
 Hangman Game made in Processing | Spring 2021
-Github Group Ripository: [HERE] (https://github.com/cindydtra/HangmanApp)
+Github Group Ripository with Source Code:(https://github.com/cindydtra/HangmanApp)
+
 ![HangmanScreenCapture]()
 
 
