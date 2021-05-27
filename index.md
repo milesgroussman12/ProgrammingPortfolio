@@ -7,7 +7,7 @@ Questions addressing codes during 2020-2021 will be answered [HERE](mailto:mileg
 Hangman Game made in Processing | Spring 2021
 Github Group Ripository with Source Code:(https://github.com/cindydtra/HangmanApp)
 
-![HangmanScreenCapture]()
+![HangmanScreenCapture](https://github.com/milesgroussman12/ProgrammingPortfolio/blob/a0d8424dd9e0a4d14f59115a5a6edebc55a76578/images/Hangman%20Screen%20Capture.png)
 
 
 #### Space Game
